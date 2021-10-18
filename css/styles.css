@@ -1,0 +1,11 @@
+h2 {
+    margin-left: 20px;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+li {
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
